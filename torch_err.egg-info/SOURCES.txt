@@ -1,7 +1,0 @@
-setup.py
-torch_err/__init__.py
-torch_err/torch_err.py
-torch_err.egg-info/PKG-INFO
-torch_err.egg-info/SOURCES.txt
-torch_err.egg-info/dependency_links.txt
-torch_err.egg-info/top_level.txt
