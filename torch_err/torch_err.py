@@ -3,7 +3,7 @@ import torch
 def error(x:torch.Tensor, y:torch.Tensor, x_err:torch.Tensor):
     """
     Compute the error of outputs y with a given error x_err on the inputs x,
-    explicitly without knowing the function f.
+    without explicitly knowing the function f.
     x and x_err must be of the same shape [batch_size, n_inputs].
     y must be of shape [batch_size].
     returns error.
